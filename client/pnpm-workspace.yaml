@@ -1,0 +1,5 @@
+allowBuilds:
+  pnpm: false
+  sharp: false
+  'true': true
+  unrs-resolver: false
